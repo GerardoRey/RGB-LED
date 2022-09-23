@@ -10,3 +10,9 @@ Los LEDs RGB tienen tres LEDs internos (Rojo, Verde y Azul) que pueden ser combi
 ### Tipos y estructura de los LEDs RGB
 Como se mencionó anteriormente, los LEDs RGB tienen tres LEDs en su interior y, por lo general, estos tres LEDs internos comparten un ánodo común o un cátodo común, especialmente en un paquete de agujeros pasantes. Así que, básicamente, podemos clasificar los LEDs RGB como de tipo ánodo común o cátodo común al igual que en las pantallas de siete segmentos.
 [![RGB-LEDs-Pinout.png](https://i.postimg.cc/7h2YLqh7/RGB-LEDs-Pinout.png)](https://postimg.cc/xN9SxDKT)
+
+
+
+
+Referencias:
+https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color 
