@@ -13,10 +13,11 @@ Como se mencionó anteriormente, los LEDs RGB tienen tres LEDs en su interior y,
 
 ## LED RGB de ánodo común
 En un LED RGB de ánodo común, los ánodos de los LEDs internos están todos conectados al cable de ánodo externo. Para controlar cada color, es necesario aplicar una señal BAJA o tierra a los cables rojo, verde y azul y conectar el cable del ánodo al terminal positivo de la fuente de alimentación.
+[![Common-Anode-RGB-LED-Pinout.png](https://i.postimg.cc/W41KRVHH/Common-Anode-RGB-LED-Pinout.png)](https://postimg.cc/MngtRCx7)
 
 ## LED RGB de cátodo común
 En un LED RGB de cátodo común, los cátodos de los LEDs internos están todos conectados al cable de cátodo externo. Para controlar cada color, es necesario aplicar una señal HIGH o VCC a los cables rojo, verde y azul y conectar el cable del ánodo al terminal negativo de la fuente de alimentación.
-
+[![Common-Cathode-RGB-LED-Pinout.png](https://i.postimg.cc/fRKFgyBd/Common-Cathode-RGB-LED-Pinout.png)](https://postimg.cc/5XXnX4c9)
 
 Referencias:
 https://www.circuitbread.com/tutorials/how-rgb-leds-work-and-how-to-control-color 
